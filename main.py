@@ -1,4 +1,4 @@
-# 1- Como criar - Alterado por Benicio
+# 1- Como criar  e corrigindo - Alterado por Benicio
 import time
 
 import numpy
